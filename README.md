@@ -11,4 +11,4 @@ This repo holds the following projects
 
 ###### Project Outline
 - [x] Bank statement reader to project daily costs
-- [] Average GPA per Virginia Tech Professor 
+- [ ] Average GPA per Virginia Tech Professor 
