@@ -7,6 +7,7 @@ the primary langauge.
 ###### Completed Projects
 This repo holds the following projects
 > Bank Statement Analyzer 
+
 > N/A
 
 ###### Project Outline
